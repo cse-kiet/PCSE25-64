@@ -1,14 +1,13 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: Aquagrowth
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Someshwar Singh
+2. Rases Pathak
+3. Shivangi Yadav
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
+1.
+2.
    (Add more steps as needed)
 
 ## Checklist:
