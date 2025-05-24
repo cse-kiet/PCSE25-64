@@ -6,9 +6,20 @@
 3. Shivangi Yadav
 
 ## Steps for Execution:
-1.
-2.
-   (Add more steps as needed)
+1.first create the file structure of files in your local computer like
+   FinalProject/
+├── pages/
+    ├── Dashboard.py
+    ├── Growth_Predictor.py
+    ├── Dataset.py
+    ├── About.py
+    ├── Introduction.py
+    ├── Research_Work.py
+    ├── hydroponics_system_dataset.csv
+├── Mainfile.py
+├── requirements.txt
+2.Update the dataset location as per your system and named file as you want but file structure should be same.
+3.Now,open the terminal in VS code or any IDE, then write "streamlit run C:\webdevlopment\FinalProject\Mainfile.py" to run code.Changes the folder name and file name according to your system. 
 
 ## Checklist:
 1. Final Project Report
